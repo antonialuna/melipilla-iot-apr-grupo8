@@ -1,4 +1,7 @@
  Sistema de Alimentación Automática para Ganado AgrooFeed
+
+ Antonia Luna y Bryan Muñoz
+
 🎯 Objetivo
 
 El objetivo del proyecto es automatizar el proceso de distribución de alimento para el ganado (vacunos, cerdos u otros animales de granja), garantizando que reciban la cantidad adecuada en los horarios programados, sin necesidad de intervención manual. Con esta solución se busca optimizar el tiempo de los encargados, reducir errores en la entrega de raciones y asegurar un control más eficiente del consumo de alimento.

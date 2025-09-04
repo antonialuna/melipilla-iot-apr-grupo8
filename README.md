@@ -55,3 +55,7 @@ ESP32/ESP8266 → conexión a Wi-Fi para control remoto.
 Raspberry Pi → dashboard con Node-RED, base de datos (MySQL o SQLite) y registro de alimentación.
 
 Notificaciones vía Telegram Bot o correo electrónico en caso de fallas.
+
+
+<img width="6608" height="1680" alt="agrofeed" src="https://github.com/user-attachments/assets/70bae1ca-e00e-443e-8745-5754009f49e9" />
+
